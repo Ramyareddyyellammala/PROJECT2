@@ -1,0 +1,165 @@
+.banner-section{
+    float: left;
+    width: 100%;
+}
+
+.banner-section img{
+    width: 100%;
+}
+.hero-section{
+    width: 100%;
+    float: left;
+}
+.sub-hero-section1{
+    float: left;
+    width: 50%;
+}
+.sub-hero-section1 img{
+    width: 60%;
+
+}
+.sub-hero-section2{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.sub-hero-section2 h1{
+    font-family:"Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style:normal ;
+    letter-spacing: 10px;
+}
+.sub-hero-section2 img{
+    width: 100%;
+    margin-left: 15%;
+}
+.gallery-section{
+    float: left;
+    width: 100%;
+}
+.sub-gallery-section-1{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.sub-gallery-section-1 h1{
+    font-family: "Rubik Doodle Shadow",system-ui;
+    font-size: 40px;
+}
+.sub-gallery-section-2{
+    float: left;
+    width: 100%;
+}
+.sub-gallery-section-2 img{
+    width: 19.5%;
+}
+#play{
+    float: left;
+    width: 17%;
+    margin-left: 2%;
+}
+.volunteer-section{
+    float: left;
+    width: 100%;
+    margin: 5% 0% 5% 0%;
+}
+.sub-volunteer-section-1{
+    float: left;
+    width: 40%;
+}
+
+.sub-volunteer-section-1 img{
+    width: 50%;
+    margin-left:40%;
+    float: left;
+}
+.sub-volunteer-section-2 {
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+}
+.sub-volunteer-section-2 p{
+    font-size: 20px;
+}
+.sub-volunteer-section-2 h1{
+    font-family: "Rubik Doodle Shadow",system-ui;
+    font-size: 43px;
+}
+#contact{
+    float: right;
+    margin-right: 25px;
+}
+
+.footer-section{
+    float: left;
+    width: 100%;
+    background-color: grey;
+    padding: 2% 0% 3% 0%;
+}
+.sub-footer-section-1{
+    float: left;
+    width: 16%;
+    margin: 0% 0%  0% 5%;
+    padding-left: 2%;
+    color: aliceblue;
+    border-style: solid;
+    border-color: aliceblue;
+    
+}
+.sub-footer-section-2{
+    float: left;
+    width: 16%;
+    font-size: 20px;
+    border-style: solid;
+    padding: 0% 0% 0% 0.5%;
+    margin: 0% 0% 0% 15%;
+    border-color: aliceblue;
+}
+
+.sub-footer-section-2 input,select{
+    padding: 1% 2% 5% 2%;
+    margin:1%
+}
+.contact {
+    float: right;
+    margin-right: 25px;
+}
+.sub-footer-section-3{
+    float: left;
+    width: 16%;
+    margin: 0% 0%  0% 15%;
+    padding-left: 2%;
+    color: aliceblue;
+    border-style: solid  ;
+    border-color: white;
+}
+.copy-section{
+    float: left;
+    width: 100%;
+    background-color: rgba(29,20,28);
+    color: white;
+    text-align: center;
+}
+.admission-section{
+    float: left;
+    width: 48%;
+    margin: 10% 0% 0% 25%;
+}
+.top-btn,.down-btn{
+    float: left;
+    width: 100%;
+    margin:5%;
+    padding: 5% 0% 5% 5%;
+    text-align: center;
+}
+.top-btn a,.down-btn a{
+    float: left;
+    width: 23%;
+    border-style: solid;
+    color: black;
+    font-size: 25px;
+    padding: 2% 2% 2% 2%;
+    text-decoration: none;
+    margin: 0% 10% 0% 10%;
+}
+
